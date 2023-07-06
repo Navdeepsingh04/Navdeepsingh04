@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Mobile Application Development**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter & DSA**
 
 - 💬 Ask me about **Android**
 

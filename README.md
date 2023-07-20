@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Mobile App Development && Web Development**
 
-- 🌱 I’m currently learning **Flutter & DSA**
+- 🌱 I’m currently learning **MERN Stack & DSA**
 
 - 💬 Ask me about **Android**
 

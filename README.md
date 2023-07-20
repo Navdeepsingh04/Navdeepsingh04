@@ -3,7 +3,7 @@
 <h3 align="center">A passionate developer from India</h3>
 
 
-- 🔭 I’m currently working on **Mobile App Development**
+- 🔭 I’m currently working on **Mobile App Development && Web Development**
 
 - 🌱 I’m currently learning **Flutter & DSA**
 

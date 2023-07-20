@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN Stack & DSA**
 
-- 💬 Ask me about **Android**
+- 💬 Ask me about **Anything**
 
 - 📫 How to reach me **navdeepkang020@gmail.com**
 
